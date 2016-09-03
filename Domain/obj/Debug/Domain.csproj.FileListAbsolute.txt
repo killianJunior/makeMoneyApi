@@ -1,0 +1,6 @@
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Domain\bin\Debug\Domain.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Domain\bin\Debug\Domain.pdb
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Domain\bin\Debug\Domain.SeedWork.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Domain\obj\Debug\Domain.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Domain\obj\Debug\Domain.pdb

@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Domain.SeedWork;
+using System;
 
 namespace Domain
 {
-    public class Comment
+    public class Comment : BaseEntity
     {
         public string Description { get; set; }
         public DateTime CommentTimeAndDate { get; set; }

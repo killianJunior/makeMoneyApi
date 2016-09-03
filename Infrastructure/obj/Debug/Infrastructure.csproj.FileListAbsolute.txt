@@ -1,0 +1,14 @@
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\Infrastructure.dll.config
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\Domain.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\Domain.SeedWork.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\Infrastructure.SeedWork.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\Domain.pdb
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Killian\Documents\Main_Proj\MakeMoneyApi\Infrastructure\obj\Debug\Infrastructure.pdb
